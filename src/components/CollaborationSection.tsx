@@ -10,7 +10,7 @@ const roles = [
 
 const CollaborationSection = () => {
   return (
-    <section className="py-24 bg-background">
+    <section id="collaboration" className="py-24 bg-background">
       <div className="container mx-auto px-6 text-center">
         <div className="mb-12">
           <p className="text-accent font-body uppercase tracking-[0.2em] text-sm mb-3">Join Us</p>

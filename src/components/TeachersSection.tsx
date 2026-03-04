@@ -11,7 +11,7 @@ const teachers = [
 
 const TeachersSection = () => {
   return (
-    <section className="py-24 bg-secondary/50">
+    <section id="teachers" className="py-24 bg-secondary/50">
       <div className="container mx-auto px-6">
         <div className="text-center mb-16">
           <p className="text-accent font-body uppercase tracking-[0.2em] text-sm mb-3">Our Team</p>
