@@ -1,4 +1,4 @@
-import { Crown, Heart } from "lucide-react";
+import { Crown, BadgeCheck } from "lucide-react";
 
 const FoundersSection = () => {
   return (
@@ -15,13 +15,13 @@ const FoundersSection = () => {
           {[
             {
               name: "Mr. Daniyar",
-              role: "Президент ISKI, основатель Ascendora School",
+              role: "Президент, основатель Ascendora School",
               icon: Crown,
             },
             {
-              name: "Diana",
-              role: "Заместитель директора, супруга президента",
-              icon: Heart,
+              name: "Diana,Iski",
+              role: "Оснаватель школы ISKI",
+              icon: BadgeCheck,
             },
           ].map((f) => (
             <div
