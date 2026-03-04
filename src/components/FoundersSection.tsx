@@ -19,8 +19,8 @@ const FoundersSection = () => {
               icon: Crown,
             },
             {
-              name: "Diana,Iski",
-              role: "Оснаватель школы ISKI",
+              name: "Diana,Iksi",
+              role: "Оснаватель школы IksI",
               icon: BadgeCheck,
             },
           ].map((f) => (
