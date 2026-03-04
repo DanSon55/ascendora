@@ -11,7 +11,7 @@ const quotes = [
 
 const ValuesSection = () => {
   return (
-    <section className="py-24 bg-background">
+    <section id="values" className="py-24 bg-background">
       <div className="container mx-auto px-6">
         <div className="text-center mb-16">
           <p className="text-accent font-body uppercase tracking-[0.2em] text-sm mb-3">Our Philosophy</p>

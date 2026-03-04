@@ -14,7 +14,7 @@ const offerings = [
 
 const FreeEducationSection = () => {
   return (
-    <section className="py-24 bg-secondary/50">
+    <section id="education" className="py-24 bg-secondary/50">
       <div className="container mx-auto px-6">
         <div className="text-center mb-16 max-w-3xl mx-auto">
           <p className="text-accent font-body uppercase tracking-[0.2em] text-sm mb-3">Free Education</p>

@@ -2,7 +2,7 @@ import { Crown, BadgeCheck } from "lucide-react";
 
 const FoundersSection = () => {
   return (
-    <section className="py-24 gradient-navy">
+    <section id="founders" className="py-24 gradient-navy">
       <div className="container mx-auto px-6">
         <div className="text-center mb-16">
           <p className="text-gold font-body uppercase tracking-[0.2em] text-sm mb-3">Leadership</p>
